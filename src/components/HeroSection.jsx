@@ -41,7 +41,7 @@ const HeroSection = () => {
         <div className="rounded-3xl border border-slate-200 bg-white p-6 shadow-xl">
           <div className="overflow-hidden rounded-2xl bg-slate-100">
             <img
-              src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&w=1200&auto=format&fit=crop"
+              src="https://i.pinimg.com/736x/cd/e0/d6/cde0d63e142de829e0b9e20b8f9d4784.jpg"
               alt="Finance dashboard"
               className="h-full w-full object-cover"
             />
